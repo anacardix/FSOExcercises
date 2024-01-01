@@ -7,3 +7,8 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 - [New note diagram](./part0/0.4.md)
 - [Single page app diagram](./part0/0.5.md)
 - [New note in Single page app diagram](./part0/0.6.md)
+
+### [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
+- [courseinfo](./part1/courseinfo/src/App.jsx)
+- [unicafe](./part1/unicafe/src/App.jsx)
+- [anecdotes](./part1/anecdotes/src/App.jsx)
