@@ -12,3 +12,8 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 - [courseinfo](./part1/courseinfo/src/App.jsx)
 - [unicafe](./part1/unicafe/src/App.jsx)
 - [anecdotes](./part1/anecdotes/src/App.jsx)
+
+### [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
+- [courseinfo](./part2/courseinfo/src/App.jsx)
+- [phonebook](./part2/phonebook/src/App.jsx)
+- [countries](./part2/countries/src/App.jsx)
