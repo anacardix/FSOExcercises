@@ -17,3 +17,6 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 - [courseinfo](./part2/courseinfo/src/App.jsx)
 - [phonebook](./part2/phonebook/src/App.jsx)
 - [countries](./part2/countries/src/App.jsx)
+
+### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
+- [phonebook](./part3/phonebook)
