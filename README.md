@@ -20,3 +20,6 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 
 ### [Part 3 - Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
 - [phonebook](./part3/phonebook)
+
+### [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
+- [bloglist](./part4/bloglist)
