@@ -23,3 +23,6 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 
 ### [Part 4 - Testing Express servers, user administration](https://fullstackopen.com/en/part4)
 - [bloglist](./part4/bloglist)
+
+### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
+- [bloglist](./part5/bloglist)
