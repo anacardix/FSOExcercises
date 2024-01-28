@@ -26,3 +26,8 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 
 ### [Part 5 - Testing React apps](https://fullstackopen.com/en/part5)
 - [bloglist](./part5/bloglist)
+
+### [Part 6 - Advanced state management](https://fullstackopen.com/en/part6)
+- [unicafe-redux](./part6/unicafe-redux)
+- [redux-anecdotes](./part6/redux-anecdotes)
+- [query-anecdotes](./part6/query-anecdotes)
