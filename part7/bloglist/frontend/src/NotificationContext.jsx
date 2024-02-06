@@ -1,15 +1,5 @@
 import { createContext, useReducer, useContext, useEffect } from "react";
 
-const visibleStyle = {
-  border: "solid",
-  padding: 10,
-  borderWidth: 1,
-};
-
-const hiddenStyle = {
-  display: "none",
-};
-
 export const useNotificationValue = () => {
   const notificationAndDispatch = useContext(NotificationContext);
   return notificationAndDispatch[0];
@@ -20,12 +10,12 @@ export const useNotificationDispatch = () => {
   return notificationAndDispatch[1];
 };
 
-const initialState = { text: "", style: hiddenStyle };
+const initialState = null;
 
 const notificationReducer = (state, action) => {
   switch (action.type) {
     case "SHOW":
-      return { text: action.payload, style: visibleStyle };
+      return { message: action.payload.message, type: action.payload.type };
     case "HIDE":
       return initialState;
     default:
@@ -38,7 +28,7 @@ const NotificationContext = createContext();
 export const NotificationContextProvider = (props) => {
   const [notification, notificationDispatch] = useReducer(
     notificationReducer,
-    0
+    initialState
   );
 
   useEffect(() => {

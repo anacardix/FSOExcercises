@@ -31,3 +31,9 @@ Personal exercises repository for FullStackOpen a free course where you can lear
 - [unicafe-redux](./part6/unicafe-redux)
 - [redux-anecdotes](./part6/redux-anecdotes)
 - [query-anecdotes](./part6/query-anecdotes)
+
+### [Part 7 - React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
+- [routed-anecdotes](./part7/routed-anecdotes)
+- [country-hook](./part7/country-hook)
+- [ultimate-hooks](./part7/ultimate-hooks)
+- [bloglist](./part7/bloglist)
